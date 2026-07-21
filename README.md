@@ -101,54 +101,78 @@
 
 <details>
 
+<summary><b> JanSaathi</b></summary>
+
+### Smart Public Service Platform
+
+| Feature | Details |
+|---------|---------|
+| Stack | React • Vercel |
+| Purpose | Simplify access to public services |
+| Status | Live |
+
+JanSaathi is a platform designed to make essential public services more accessible and user-friendly through a simple digital interface.
+
+🔗 Live Demo: https://jan-saathi.vercel.app
+
+</details>
+
+---
+
+<details>
+
+<summary><b>💳 Gemma AI Billing Copilot</b></summary>
+
+### AI Billing & Invoice Assistant
+
+| Feature | Details |
+|---------|---------|
+| Stack | Gemma AI • React • Firebase |
+| Purpose | Smart Billing Automation |
+| Features | Invoice Generation • Expense Tracking • AI Insights |
+| Status | Active Development |
+
+An AI-powered billing assistant that helps businesses create invoices, manage expenses, and gain financial insights using Gemma AI.
+
+</details>
+
+---
+
+<details>
+
 <summary><b>🍽 Campus Bite</b></summary>
 
-### Smart College Canteen Ordering Platform
+### Smart Campus Food Ordering Platform
 
 | Feature | Details |
 |---------|---------|
-| Stack | React • Supabase |
-| Goal | Reduce waiting time |
-| Users | College Students |
-| Status | In Development |
+| 🌐 Live Demo | https://campusbite-peach.vercel.app |
+| 🎯 Purpose | Digital food ordering for college campuses |
+| 👨‍🎓 Users | Students & Canteen Staff |
+| 📌 Status | Live Demo |
 
-A smart digital ordering system that allows students to place food orders before reaching the canteen, minimizing queues and improving campus dining efficiency.
+Campus Bite is a modern food ordering platform designed to improve the campus dining experience. Students can browse menus, place orders online, and reduce waiting time at the canteen through a clean and mobile-friendly interface.
 
-</details>
+### ✨ Key Features
 
----
+- 🍔 Browse food menu
+- 🛒 Digital food ordering
+- ⏱ Faster order management
+- 📱 Responsive UI
+- 🔐 Secure authentication
+- 👨‍🎓 Student-focused experience
 
-<details>
+### 🔑 Demo Login
 
-<summary><b>⚖ LexMate</b></summary>
+| Email | Password |
+|--------|----------|
+| **demo@acharya.ac.in** | **demo@2026** |
 
-### AI Legal Assistant
+> **Note:** Use these demo credentials to explore the application.
 
-| Feature | Details |
-|---------|---------|
-| Stack | AI • NLP |
-| Purpose | Simplify Legal Documents |
-| Target | Indian Users |
+### 🚀 Live Demo
 
-LexMate converts complicated legal documents into easy-to-understand language using AI while highlighting important clauses and potential risks.
-
-</details>
-
----
-
-<details>
-
-<summary><b>🤖 PromptVault</b></summary>
-
-### AI Prompt Management Platform
-
-| Feature | Details |
-|---------|---------|
-| Stack | React • Supabase |
-| Purpose | Store & Discover AI Prompts |
-| Models | ChatGPT • Gemini • Midjourney |
-
-An organized platform for saving, searching, and managing AI prompts for different tools and use cases.
+🔗 https://campusbite-peach.vercel.app
 
 </details>
 
