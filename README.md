@@ -212,7 +212,7 @@ Currently working towards certifications in:
 
 ---
 
-# 📊 GitHub Analytics
+<!--# 📊 GitHub Analytics
 
 <p align="center">
 
@@ -238,7 +238,7 @@ Currently working towards certifications in:
 
 </p>
 
----
+----->
 
 # 📈 Contribution Activity
 
