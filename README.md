@@ -1,16 +1,295 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**sujalsinghrathore77/sujalsinghrathore77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&customColorList=6,11,20&text=Sujal%20Singh%20Rathore&fontSize=48&fontColor=ffffff&animation=fadeIn"/>
 
-Here are some ideas to get you started:
+# Hi there 👋 I'm Sujal Singh Rathore
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Information Science Engineering Student | AI Builder | Full Stack Developer | Hackathon Enthusiast | Future Entrepreneur
+
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=Building+AI+Powered+Applications;Hackathon+Enthusiast;Full+Stack+Developer;Startup+Builder;Always+Learning+Something+New"/>
+</p>
+
+<p align="center">
+
+<a href="mailto:sujalsinghrathore52@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact_Me-6A5ACD?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/sujal-singh-rathore-432b4b30b">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://github.com/sujalsinghrathore77">
+<img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github"/>
+</a>
+
+</p>
+
+<p align="center">
+
+![](https://komarev.com/ghpvc/?username=sujalsinghrathore77&style=for-the-badge&color=blueviolet)
+
+![](https://img.shields.io/github/followers/sujalsinghrathore77?style=for-the-badge)
+
+![](https://img.shields.io/github/stars/sujalsinghrathore77?style=for-the-badge)
+
+</p>
+
+</div>
+
+---
+
+# 💫 About Me
+
+🎓 Second Year **Information Science Engineering** student at **Acharya Institute of Technology, Bengaluru**
+
+💡 Passionate about **Artificial Intelligence, Full Stack Development, Startups, and Product Engineering**
+
+🚀 I enjoy building products that solve real-world problems instead of just writing code.
+
+🏆 Participated in **8+ Hackathons** where I collaborated with teams to build innovative solutions under tight deadlines.
+
+🎬 Currently learning **Professional Video Editing** to enhance storytelling and digital content creation.
+
+🌱 Continuously learning new technologies and improving my development skills every day.
+
+⚡ My long-term goal is to build impactful AI startups and create products used by millions.
+
+---
+
+# 🚀 Tech Stack
+
+### 💻 Programming Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,c,javascript"/>
+</p>
+
+### 🌐 Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,react,tailwind"/>
+</p>
+
+### ⚙ Backend & Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,supabase,firebase"/>
+</p>
+
+### ☁ Tools & Platforms
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel"/>
+</p>
+
+---
+
+# 🤖 AI / ML Expertise
+
+| Domain | Proficiency | Details |
+|---------|------------|---------|
+| Prompt Engineering | ⭐⭐⭐⭐⭐ | Building efficient AI workflows |
+| Generative AI | ⭐⭐⭐⭐☆ | Gemini, LLM Applications |
+| AI Product Development | ⭐⭐⭐⭐☆ | AI-first Product Design |
+| Full Stack AI Apps | ⭐⭐⭐⭐☆ | React + Supabase + AI |
+
+---
+
+# 🚀 Featured Projects
+
+<details>
+
+<summary><b>🍽 Campus Bite</b></summary>
+
+### Smart College Canteen Ordering Platform
+
+| Feature | Details |
+|---------|---------|
+| Stack | React • Supabase |
+| Goal | Reduce waiting time |
+| Users | College Students |
+| Status | In Development |
+
+A smart digital ordering system that allows students to place food orders before reaching the canteen, minimizing queues and improving campus dining efficiency.
+
+</details>
+
+---
+
+<details>
+
+<summary><b>⚖ LexMate</b></summary>
+
+### AI Legal Assistant
+
+| Feature | Details |
+|---------|---------|
+| Stack | AI • NLP |
+| Purpose | Simplify Legal Documents |
+| Target | Indian Users |
+
+LexMate converts complicated legal documents into easy-to-understand language using AI while highlighting important clauses and potential risks.
+
+</details>
+
+---
+
+<details>
+
+<summary><b>🤖 PromptVault</b></summary>
+
+### AI Prompt Management Platform
+
+| Feature | Details |
+|---------|---------|
+| Stack | React • Supabase |
+| Purpose | Store & Discover AI Prompts |
+| Models | ChatGPT • Gemini • Midjourney |
+
+An organized platform for saving, searching, and managing AI prompts for different tools and use cases.
+
+</details>
+
+---
+
+# 🏆 Achievements
+
+| Recognition | Details |
+|-------------|---------|
+| 🥇 Hackathons | Participated in 8+ Hackathons |
+| 🚀 Startup Enthusiast | Building AI-powered products |
+| 💻 Developer | Passionate about Full Stack Development |
+| 🎬 Creator | Learning Professional Video Editing |
+
+---
+
+# 📜 Certifications
+
+Currently working towards certifications in:
+
+- AWS Cloud
+- Oracle Java
+- Cisco Networking
+- NPTEL Courses
+
+---
+
+# 💻 Coding Profiles
+
+<p align="center">
+
+<a href="https://github.com/sujalsinghrathore77">
+<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</p>
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sujalsinghrathore77&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujalsinghrathore77&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sujalsinghrathore77&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=sujalsinghrathore77&theme=tokyonight&no-frame=true&row=2&column=4"/>
+
+</p>
+
+---
+
+# 📈 Contribution Activity
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sujalsinghrathore77&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+```text
+Enable GitHub Actions after creating your profile repository
+to generate the contribution snake animation.
+```
+
+---
+
+# 🌱 Current Focus
+
+```yaml
+Learning:
+  - React
+  - Next.js
+  - AI Engineering
+  - Video Editing
+  - System Design
+
+Building:
+  - Campus Bite
+  - PromptVault
+  - AI Products
+  - Personal Portfolio
+
+Exploring:
+  - SaaS
+  - Automation
+  - Startup Ecosystem
+  - Open Source
+
+Open To:
+  - Internships
+  - Hackathons
+  - Open Source Contributions
+  - Freelance Projects
+```
+
+---
+
+# 📫 Connect With Me
+
+<p align="center">
+
+<a href="mailto:sujalsinghrathore52@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-sujalsinghrathore52@gmail.com-red?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="https://www.linkedin.com/in/sujal-singh-rathore-432b4b30b">
+<img src="https://img.shields.io/badge/LinkedIn-Sujal_Singh_Rathore-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://github.com/sujalsinghrathore77">
+<img src="https://img.shields.io/badge/GitHub-sujalsinghrathore77-black?style=for-the-badge&logo=github"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+### *"Building products that solve real-world problems, one commit at a time."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=150&color=gradient&customColorList=6,11,20"/>
+
+</div>
