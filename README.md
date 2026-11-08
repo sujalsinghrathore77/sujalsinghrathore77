@@ -242,11 +242,7 @@ Currently working towards certifications in:
 
 # 📈 Contribution Activity
 
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sujalsinghrathore77&theme=tokyo-night"/>
-
-</p>
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=sujalsinghrathore77&theme=github-dark)
 
 ---
 
