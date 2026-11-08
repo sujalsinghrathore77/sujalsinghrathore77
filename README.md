@@ -42,7 +42,7 @@
 
 # 💫 About Me
 
-🎓 Second Year **Information Science Engineering** student at **Acharya Institute of Technology, Bengaluru**
+🎓 Third Year **Information Science Engineering** student at **Acharya Institute of Technology, Bengaluru**
 
 💡 Passionate about **Artificial Intelligence, Full Stack Development, Startups, and Product Engineering**
 
