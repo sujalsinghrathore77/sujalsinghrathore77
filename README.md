@@ -242,16 +242,43 @@ Currently working towards certifications in:
 
 # 📈 Contribution Activity
 
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=sujalsinghrathore77&theme=github-dark)
+
+![GitHub Contributions](https://ghchart.rshah.org/39d353/sujalsinghrathore77)
 
 ---
 
 # 🐍 Contribution Snake
 
-```text
-Enable GitHub Actions after creating your profile repository
-to generate the contribution snake animation.
-```
+
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Generate snake
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+
+      - name: Publish snake
+        uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
 
 ---
 
