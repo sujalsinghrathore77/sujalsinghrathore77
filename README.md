@@ -249,8 +249,7 @@ Currently working towards certifications in:
 
 # 🐍 Contribution Snake
 
-
-
+![Contribution Snake](https://raw.githubusercontent.com/sujalsinghrathore77/sujalsinghrathore77/output/github-snake-dark.svg)
 
 ---
 
